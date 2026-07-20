@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Array
 |  |
 | ------- |
