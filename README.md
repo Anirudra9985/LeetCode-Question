@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 ## Array
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 ## Sorting
 |  |
 | ------- |
