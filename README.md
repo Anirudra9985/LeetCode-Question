@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0486-predict-the-winner](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1301-number-of-paths-with-max-score) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -173,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0173-binary-search-tree-iterator) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
