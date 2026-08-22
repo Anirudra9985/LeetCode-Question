@@ -5,7 +5,7 @@ public:
         vector<TreeNode*> dups;
         serialize(root, map);
         for (auto it = map.begin(); it != map.end(); it++)
-            if (it->second.size() > 1) dups.push_back(it->second[1]);
+            if (it->second.size() > 1) dups.push_back(it->second[0]);
         return dups;
     }
 private:
