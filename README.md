@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0238-product-of-array-except-self](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0877-stone-game) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1406-stone-game-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
