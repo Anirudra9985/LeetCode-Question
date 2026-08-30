@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
