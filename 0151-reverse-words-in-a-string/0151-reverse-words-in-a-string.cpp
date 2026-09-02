@@ -1,0 +1,81 @@
+class Solution {
+public:
+    string reverseWords(string s) {
+        //          int n=s.size();
+        //         string  ans = "";
+        //          reverse(s.begin(),s.end());
+        //          for(int i=0;i<n;i++){
+        //             string word = "";
+        //             while(i<n && s[i] !=' '){
+        //                 word +=s[i];
+        //                 i++;
+        //             }
+        //             reverse(word.begin(),word.end());
+        //             if(word.size()>0){
+        //                 ans += " " +word;
+        //             }
+        //          }
+        //          return ans.substr(1);
+        //     }
+        // };
+
+        // class Solution {
+        // public:
+        //     string reverseWords(string s) {
+        //         vector<string> words;
+        //         string word;
+        //         for(int i=0;i<s.size();++i){
+        //             if(s[i]!=' '){
+        //                 word+=s[i];
+        //             }
+        //             else if(!word.empty()){
+        //                 words.push_back(word);
+        //                 word.clear();
+        //             }
+        //         }
+        //         if (!word.empty()) {
+        //             words.push_back(word);
+        //         }
+        //         reverse(words.begin(),words.end());
+        //         string result;
+        //         for(int i=0;i<words.size();i++){
+        //             result+=words[i];
+        //             if(i!=words.size()-1){
+        //                 result+=' ';
+        //             }
+        //         }
+        //         return result;
+
+        int n = s.size();
+        string ans ="";
+        reverse(s.begin(), s.end());
+        for (int i = 0; i < n; i++) {
+            string word = "";
+            while (i < n && s[i] !=' ') {
+                word+=s[i];
+                i++;
+            }
+            reverse(word.begin(), word.end());
+            if (word.size() > 0) {
+                ans+=" "+word;
+            }
+        }
+
+        return ans.substr(1);
+    }
+};
+//          int n=s.size();
+//         string  ans = "";
+//          reverse(s.begin(),s.end());
+//          for(int i=0;i<n;i++){
+//             string word = "";
+//             while(i<n && s[i] !=' '){
+//                 word +=s[i];
+//                 i++;
+//             }
+//             reverse(word.begin(),word.end());
+//             if(word.size()>0){
+//                 ans += " " +word;
+//             }
+//          }
+//          return ans.substr(1);
