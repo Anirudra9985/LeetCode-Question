@@ -24,8 +24,7 @@ public:
     bool isMatch(string s, string p) {
         int n = s.size(), m = p.size();
         vector<vector<bool>> dp(n+1, vector<bool>(m+1,false));
-        // vector<vector<int>> dp(n+1, vector<int>(m+1,-1)); for recursion only
-        dp[n][m] = true; // base cases
+        dp[n][m] = true; 
         for(int j=m-1; j>=0; j-=2){
             if(p[j]!='*') break;
             dp[n][j] = true;
@@ -47,7 +46,6 @@ public:
                 }
             }
         }
-        // recur(s, p, 0, 0, dp);
         return dp[0][0];
     }
 };
