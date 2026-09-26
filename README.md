@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1406-stone-game-iii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Anirudra9985/LeetCode-Question/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0843-guess-the-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0843-guess-the-word) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0652-find-duplicate-subtrees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
