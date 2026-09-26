@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1096-brace-expansion-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0843-guess-the-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0843-guess-the-word) |
+| [1096-brace-expansion-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0173-binary-search-tree-iterator) |
+| [1096-brace-expansion-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0652-find-duplicate-subtrees) |
+| [1096-brace-expansion-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
@@ -263,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0843-guess-the-word) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
