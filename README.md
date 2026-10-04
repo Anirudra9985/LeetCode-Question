@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0843-guess-the-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0843-guess-the-word) |
 | [0877-stone-game](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0877-stone-game) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0652-find-duplicate-subtrees) |
 | [1096-brace-expansion-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
