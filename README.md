@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0173-binary-search-tree-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
 ## Iterator
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
