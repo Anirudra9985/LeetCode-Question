@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Anirudra9985/LeetCode-Question/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -321,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0523-continuous-subarray-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
