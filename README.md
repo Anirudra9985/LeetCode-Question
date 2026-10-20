@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3886-sum-of-sortable-integers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3886-sum-of-sortable-integers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anirudra9985/LeetCode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3536-maximum-product-of-two-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3886-sum-of-sortable-integers) |
 ## Interactive
 |  |
 | ------- |
