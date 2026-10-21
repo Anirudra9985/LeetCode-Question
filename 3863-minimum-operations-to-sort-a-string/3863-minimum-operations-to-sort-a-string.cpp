@@ -1,10 +1,34 @@
 class Solution {
 public:
-    int minOperations(string s) {
-        if (is_sorted(s.begin(), s.end())) return 0;  // already sorted
-        if (s.size() == 2) return -1;  // only single letters can be sorted, which changes nothing
-        auto [lo, hi] = minmax_element(s.begin() + 1, s.end() - 1);  // the middle's smallest and largest letters
-        if (s[0] <= min(*lo, s.back()) || max(s[0], *hi) <= s.back()) return 1;  // the first letter is the smallest, or the last the largest
-        return s.back() < *lo && *hi < s[0] ? 3 : 2;  // the middle sits strictly between the last letter and the first
+    int minOperations(const string &s) {
+        bool isSorted = is_sorted(s.begin(), s.end());
+
+        if (isSorted) {
+            return 0;
+        }
+
+        const int n = static_cast<int>(s.size());
+    
+        if (n == 2) {
+            return -1;
+        }
+
+        char minVal = s[0], maxVal = s[0];
+        for (char ch : s) {
+            minVal = min(minVal, ch);
+            maxVal = max(maxVal, ch);
+        }
+
+        if (s[0] == minVal || s[n - 1] == maxVal) {
+            return 1;
+        }
+
+        for (int i = 1; i + 1 < n; ++i) {
+            if (s[i] == minVal || s[i] == maxVal) {
+                return 2;
+            }
+        }
+
+        return 3;
     }
 };
