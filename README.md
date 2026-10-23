@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Anirudra9985/LeetCode-Question/tree/master/1110-delete-nodes-and-return-forest) |
 ## Array
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
