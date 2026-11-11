@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anirudra9985/LeetCode-Question/tree/master/0334-increasing-triplet-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Anirudra9985/LeetCode-Question/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Design
 |  |
 | ------- |
